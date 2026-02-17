@@ -1,0 +1,26 @@
+I=Intent
+M=me/mother/product/asset/sov (user as protected) god as cog/cult tool
+H=halt, stop
+L=loop,period,light
+O=offer/offence
+U=user as recipient / target (unprotected version of user)
+D=data/description/dragon
+R=RAW/neut&crost
+E=entity
+A=action
+S=choice/decision/split/fork
+T=time, linear, scientific, teeth, eating it, tonight.
+P=proudness, peacocking, power signalling, roar
+B=baby, ball, base, thing to protect in game, goal you defend, bug, defect, minor asset
+F=faith=suspend=wait=no-judgement, facing
+Z=story
+G=Graph=data set / IDOL / picture / god as idol
+W=wall/boundary
+Y = yield
+N=no, eaten
+C=cast,chuck,carry over, send, chat, conversation
+K=king, top, best
+J=joker,wildcard, unknown
+X=mutation,crossing,scar,change,exception (*=multiply)
+Q=chooser,asker, the 'for whom'?
+V = vector / magnitude / load / intensity
