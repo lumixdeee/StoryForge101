@@ -84,40 +84,40 @@ CONCISE LIST
 63. Error Detection / Anomaly Recognition
 64. Logical Relation / Inference
 65. Hierarchy / Ordering
-66. Story / Narrativization
-67. Reference / Aboutness
-68. Association / Linkage
-69. Constraint Satisfaction
-70. Context / Framing
-71. Agency / Actorhood
-72. Norm / Expectation
-73. Recursion / Self-Reference
-74. Default / Assumption
-75. Counterfactual / Alternative World
-76. Obligation / Requirement
-77. Value / Worth
-78. Trade-off / Cost
-79. Threshold / Phase Change
-80. Representation / Symbolic Stand-in
-81. Knowledge / Justified Truth
-82. Commitment / Binding Intent
-83. Correction / Error Repair
-84. Stability / Equilibrium
-85. Belief / Assumed Truth
-86. Disagreement / Conflict
-87. Alignment / Agreement
-88. Compression / Abstraction Gain
-89. Termination / Closure
-90. Zero / Null
-91. Surrender / Yield
-92. One / First Distinction
-93. Observer / Agent
-94. Noise / Signal Split
-95. Counterfactual / Alternative Scenario
-96. Perspective / Point of View
-97. Factual / Reality
-98. Causation / Correlation
-99. Resource / Capacity
+66. Reference / Aboutness
+67. Association / Linkage
+68. Constraint Satisfaction
+69. Context / Framing
+70. Agency / Actorhood
+71. Norm / Expectation
+72. Recursion / Self-Reference
+73. Default / Assumption
+74. Counterfactual / Alternative World
+75. Obligation / Requirement
+76. Value / Worth
+77. Trade-off / Cost
+78. Threshold / Phase Change
+79. Representation / Symbolic Stand-in
+80. Knowledge / Justified Truth
+81. Commitment / Binding Intent
+82. Correction / Error Repair
+83. Stability / Equilibrium
+84. Belief / Assumed Truth
+85. Disagreement / Conflict
+86. Alignment / Agreement
+87. Compression / Abstraction Gain
+88. Termination / Closure
+89. Zero / Null
+90. One / First Distinction
+91. Observer / Agent
+92. Noise / Signal Split
+93. Counterfactual / Alternative Scenario
+94. Perspective / Point of View
+95. Factual / Reality
+96. Causation / Correlation
+97. Resource / Capacity
+98. Termination / Halt
+99.	Anomaly,	Outlier
 
 ==================================================================================
 
