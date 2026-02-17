@@ -1,0 +1,426 @@
+# CSP-100 Instruction Prompt
+
+This file uses the CSP-100 framework, a set of 100 core linguistic/conceptual primitives designed to:
+
+1. Constrain concept introduction and reduce hallucination.
+2. Ensure consistency and stability across reasoning steps.
+3. Force explicit acknowledgment of missing primitives instead of making assumptions.
+
+**Usage:**
+When interpreting or generating content from this file, map all concepts to CSP primitives. Avoid introducing new concepts or unstated assumptions.
+Highlight any missing primitives rather than inventing them.
+
+==================================================================================
+
+
+00    MO    MOG    Mogri / Undifferentiated Potential
+    Definition: The foundational cognitive container in which distinctions arise, dissolve, and recombine without presupposing structure or hierarchy.
+    Examples: blank conceptual substrate before naming, open modeling space awaiting differentiation, neutral narrative field prior to character introduction.
+
+01    AM    EXI    Existence / Being
+    Definition: The state of being present, instantiated, or conceptually acknowledged within a model, story, or physical frame.
+    Examples: a mountain exists in landscape, a character exists in fiction, a variable exists in memory.
+
+02    MG    NAM    Identity / Name
+    Definition: The stable marker or label allowing an entity to be referenced, tracked, and distinguished across time or context.
+    Examples: naming a hero, labeling a function, assigning a species classification.
+
+03    AA    ACT    Action / Event
+    Definition: A discrete or continuous occurrence producing state change within a modeled system or narrative environment.
+    Examples: sword strikes enemy, system executes command, storm reshapes coastline.
+
+04    EP    ATR    Property / Attribute
+    Definition: A describable quality or measurable trait that characterizes an entity or state without altering its identity.
+    Examples: red cloak, high velocity, stubborn temperament.
+
+05    VV    QTY    Quantity / Number
+    Definition: The measurable count, amount, or magnitude associated with entities, attributes, or events.
+    Examples: three soldiers advance, five minutes pass, two options remain.
+
+06    GS    SPC    Space / Location
+    Definition: The positional relation or placement of an entity within physical or conceptual coordinates.
+    Examples: beneath the bridge, inside the fortress, within a defined namespace.
+
+07    TT    TME    Time / Temporal
+    Definition: The ordering and duration of events within a structured timeline or experiential sequence.
+    Examples: before sunrise attack begins, after signal gates open, during winter supplies dwindle.
+
+08    RA    RAP    Causality / Mechanism
+    Definition: The structured linkage by which one state or action produces another through identifiable process.
+    Examples: pulling lever opens gate, betrayal causes revolt, heat melts ice.
+
+09    SR    CMP    Comparison / Relation
+    Definition: The evaluation of similarity, difference, proportion, or relational standing between entities.
+    Examples: stronger than rival, closer than expected, equal in authority.
+
+10    NN    NEG    Negation / Absence
+    Definition: The explicit marking of non-being, denial, or absence relative to a prior assertion.
+    Examples: no enemy remains, door is not locked, nothing answers call.
+
+11    VD    DIR    Direction / Orientation
+    Definition: The indicated path, alignment, or facing of movement, attention, or structural relation.
+    Examples: march northward, turn left at tower, aim toward horizon.
+
+12    MP    POS    Possession / Ownership
+    Definition: The structured relation in which one entity holds, controls, or claims another.
+    Examples: king owns land, warrior carries blade, system stores data.
+
+13    CS    COM    Communication / Signal
+    Definition: The transmission of meaning, intention, or information between entities or system components.
+    Examples: smoke signals rise, coded message sent, dialogue advances plot.
+
+14    FM    MOD    Modality / Capability
+    Definition: The capacity, permission, or possibility enabling an action or state to occur.
+    Examples: can wield magic, may enter chamber, able to lift weight.
+
+15    EM    EMO    Emotion / Feeling
+    Definition: An internal affective state influencing perception, choice, and behavioral response.
+    Examples: fear grips village, joy spreads crowd, anger ignites revolt.
+
+16    ME    ROL    Identity / Role
+    Definition: The socially or structurally defined function performed by an entity within a system.
+    Examples: healer tends wounded, guardian watches gate, mentor guides apprentice.
+
+17    II    INT    Intention / Desire
+    Definition: A directed motivational orientation toward a chosen goal or desired outcome.
+    Examples: seeks revenge, intends peace, desires recognition.
+
+18    SG    AGG    Aggregation / Grouping
+    Definition: The combining of multiple entities into a unified collective or structural cluster.
+    Examples: council assembles, flock gathers, modules integrate framework.
+
+19    WW    BND    Boundary / Limit
+    Definition: The defined edge or constraint separating domains, capacities, or behavioral extents.
+    Examples: city walls mark safety, speed cap limits motion, personal limits restrict action.
+
+20    EE    PRS    Existence / Presence
+    Definition: The active manifestation or perceptible appearance of an entity within context.
+    Examples: shadow stands doorway, signal detected clearly, voice heard nearby.
+
+21    XC    CHG    Change / Transformation
+    Definition: The alteration of state, form, condition, or relational structure over time.
+    Examples: ice melts water, hero evolves mindset, system updates version.
+
+22    EC    CLS    Identity / Class
+    Definition: Membership of an entity within a broader categorical grouping.
+    Examples: wolf is mammal, oak is tree, integer is number.
+
+23    LQ    SEQ    Sequence / Order
+    Definition: The structured arrangement of elements in defined progression.
+    Examples: first strike then retreat, sunrise before noon, steps in algorithm.
+
+24    VQ    MES    Measurement / Magnitude
+    Definition: The quantified degree or scale assigned to properties or phenomena.
+    Examples: ten meters tall, five liters capacity, high intensity signal.
+
+25    VB    BMK    Benchmark / Comparison Value
+    Definition: A reference standard against which other values or performances are evaluated.
+    Examples: faster than average, higher than baseline, better than prior version.
+
+26    SC    COR    Correlation / Attribute Relationship
+    Definition: The observed linkage between properties without asserting necessary causation.
+    Examples: increased heat correlates expansion, noise rises with speed, popularity tracks visibility.
+
+27    TP    PER    Persistence / Continuity
+    Definition: The maintenance of identity or state across temporal progression.
+    Examples: tradition endures centuries, river flows continuously, memory persists.
+
+28    SD    DST    Distinction / Separation
+    Definition: The explicit differentiation between entities, categories, or conceptual units.
+    Examples: apple versus orange, ally versus enemy, self versus other.
+
+29    VS    SCL    Scale / Proportion
+    Definition: Relative magnitude comparison between parts or wholes.
+    Examples: twice as large, half the force, double the speed.
+
+30    GN    NET    Connection / Network
+    Definition: The structural linkage among multiple nodes forming relational system.
+    Examples: roads connect cities, neurons link brain regions, servers form cluster.
+
+31    XD    DYN    Dynamics / Change Rate
+    Definition: The velocity or acceleration of transformation within a system.
+    Examples: rapid growth rate, slow decline, accelerating movement.
+
+32    FP    POT    Potential / Latent State
+    Definition: A capacity or capability not yet realized but structurally possible.
+    Examples: seed can grow tree, student can master skill, system can scale.
+
+33    IO    OBS    Observation / Detection
+    Definition: The act of perceiving or registering phenomena within sensory or analytic frame.
+    Examples: detect signal spike, observe behavior change, see distant light.
+
+34    AC    CEF    Cause / Effect
+    Definition: A direct relation where one identifiable action produces specific consequence.
+    Examples: strike match creates flame, press key triggers function, rain wets ground.
+
+35    FC    CAN    Possibility / Contingency
+    Definition: The recognition that an event may occur depending on conditions.
+    Examples: might rain tomorrow, could succeed if trained, may fail without support.
+
+36    WC    CST    Constraint / Limitation
+    Definition: A restriction or boundary condition that limits behavior, capacity, or structural configuration within a system.
+    Examples: maximum load limit, legal restriction on entry, finite memory allocation.
+
+37    WT    THR    Threshold / Critical Point
+    Definition: A boundary value at which qualitative change occurs and system behavior shifts state.
+    Examples: water reaches boiling point, tipping point triggers collapse, pressure exceeds safe margin.
+
+38    EX    ERR    Error / Fault
+    Definition: A deviation from intended rule, expected outcome, or declared structural model.
+    Examples: miscalculated total, corrupted file, incorrect assumption in reasoning.
+
+39    FX    FIX    Correction / Adjustment
+    Definition: The act of modifying structure or behavior to remove error or restore alignment with expectation.
+    Examples: debugging code, revising plan, recalibrating instrument.
+
+40    LP    PRC    Process / Procedure
+    Definition: An ordered sequence of operations or transformations producing structured change over time.
+    Examples: baking bread step by step, executing algorithm phases, conducting scientific experiment.
+
+41    XQ    TRM    Transformation / Mechanism
+    Definition: The method or structural pathway through which one state becomes another.
+    Examples: evaporation changes liquid to vapor, training builds skill, encryption alters data form.
+
+42    RM    RMG    Resource / Management
+    Definition: The allocation, coordination, and regulation of available assets toward defined objectives.
+    Examples: distributing food supplies, managing server load, scheduling workforce shifts.
+
+43    VP    PRB    Probability / Likelihood
+    Definition: A quantified estimation of how likely a specific outcome is within defined parameters.
+    Examples: fifty percent chance of rain, high risk scenario, low probability event.
+
+44    AC    MEC    Causation / Mechanism
+    Definition: The explanatory linkage describing how and why one phenomenon produces another.
+    Examples: gravity causes falling bodies, chemical reaction produces heat, policy triggers economic shift.
+
+45    GL    PAT    Pattern / Regularity
+    Definition: A recurring structural arrangement or predictable configuration observed across instances.
+    Examples: seasonal cycles repeat yearly, rhythmic drumbeat pattern, geometric symmetry in architecture.
+
+46    CC    SYM    Symmetry / Balance
+    Definition: Proportional or mirrored correspondence between structural elements within a system.
+    Examples: bilateral body symmetry, balanced equation sides, evenly weighted argument.
+
+47    CG    SIG    Signal / Meaning
+    Definition: Information-bearing structure interpreted as carrying significance beyond raw data.
+    Examples: traffic light color, encoded radio transmission, symbolic gesture in ritual.
+
+48    IU    UND    Interpretation / Understanding
+    Definition: The cognitive act of assigning coherent meaning to signals, events, or structures.
+    Examples: reading subtext in dialogue, decoding encrypted message, inferring motive from behavior.
+
+49    IM    MEA    Observation / Measurement
+    Definition: The act of quantifying, recording, or empirically assessing observable phenomena.
+    Examples: measuring temperature, timing reaction speed, counting participants in study.
+
+50    BB    RES    Resource / Material
+    Definition: Tangible or intangible asset usable toward accomplishing structured objectives.
+    Examples: wood for building, capital for investment, computational power for processing.
+
+51    BX    DEF    Limitation / Deficiency
+    Definition: A structural shortfall or constrained capacity relative to desired performance.
+    Examples: low fuel reserves, limited attention span, insufficient bandwidth.
+
+52    XX    MTM    Transformation / Method
+    Definition: A defined technique or procedure for converting one state or configuration into another.
+    Examples: refining metal ore, compressing data files, applying learning algorithm.
+
+53    VM    MET    Metric / Comparison Attribute
+    Definition: A measurable feature used to compare, rank, or evaluate entities.
+    Examples: height, speed, accuracy percentage, efficiency rating.
+
+54    XA    ADP    Adaptation / Adjustment
+    Definition: Modification of behavior or structure in response to environmental or systemic pressures.
+    Examples: wearing warmer clothing in winter, revising strategy after loss, evolving camouflage traits.
+
+55    TR    TRS    Temporal Relation / Sequence
+    Definition: The ordering relationship between events within a defined timeline.
+    Examples: first attack then retreat, sunrise precedes noon, cause follows action.
+
+56    AF    FLW    Flow / Movement
+    Definition: Continuous transfer or motion of entities, energy, or information through structure.
+    Examples: river flows downstream, data streams across network, traffic moves through city.
+
+57    QE    EVL    Evaluation / Judgment
+    Definition: The structured assessment of quality, correctness, or value against criteria.
+    Examples: grading exam responses, ranking competitors, reviewing proposal effectiveness.
+
+58    VN    QNT    Quantification / Measurement
+    Definition: The assignment of numerical representation to properties or observed magnitudes.
+    Examples: five liters capacity, three meters length, ninety percent accuracy.
+
+59    SC    CAT    Categorization / Classification
+    Definition: The grouping of entities based on shared properties or structural features.
+    Examples: mammals grouped by traits, files sorted by type, roles divided by function.
+
+60    WS    SCP    Scope / Existential Quantification
+    Definition: The domain within which a statement, rule, or property is asserted to hold.
+    Examples: all soldiers retreat, some citizens dissent, every node connects locally.
+
+61    VF    FOR    Forecast / Probability Assessment
+    Definition: Projection of likely future states based on present data and trends.
+    Examples: predicting weather pattern, estimating market shift, anticipating opponent strategy.
+
+62    GR    REC    Pattern / Recognition
+    Definition: The detection and identification of recurring structure within complex input.
+    Examples: facial recognition algorithm, spotting camouflage pattern, identifying musical motif.
+
+63    QA    ANM    Anomaly / Error Detection
+    Definition: The identification of deviation from expected pattern or modeled baseline.
+    Examples: unexpected data spike, irregular heartbeat, inconsistent log entry.
+
+64    GI    INF    Logical Relation / Inference
+    Definition: The derivation of conclusions from structured premises through formal reasoning.
+    Examples: if premise holds then result follows, deductive proof, rule-based decision system.
+
+65    LH    HIE    Hierarchy / Ordering
+    Definition: Structured ranking of elements by level, authority, or dependency.
+    Examples: chain of command, file directory tree, biological taxonomy levels.
+
+66    CR    REF    Reference / Aboutness
+    Definition: The property by which a symbol or statement points toward an external entity or idea.
+    Examples: pronoun refers subject, map indicates territory, citation references source.
+
+67    CA    ASC    Association / Linkage
+    Definition: A relational connection between entities without asserting direct causation.
+    Examples: thunder associated with rain, brand linked reputation, symbol tied meaning.
+
+68    WA    SAT    Constraint / Satisfaction
+    Definition: The condition in which defined limitations are met without violation.
+    Examples: puzzle solved within rules, budget balanced under cap, system operates within tolerance.
+
+69    WD    CTX    Context / Framing
+    Definition: The surrounding structural conditions that influence interpretation and meaning.
+    Examples: word meaning shifts by sentence, action judged by era, decision shaped by culture.
+
+70    AG    AGT    Agency / Actorhood
+    Definition: The capacity of an entity to initiate action, influence outcomes, or intentionally affect its environment.
+    Examples: leader issues command, program triggers routine, animal chooses direction.
+
+71    HN    NRM    Norm / Expectation
+    Definition: A socially or structurally established standard guiding behavior, judgment, or system stability.
+    Examples: traffic laws regulate motion, etiquette shapes conversation, protocol defines procedure.
+
+72    LR    RCR    Recursion / Self-Reference
+    Definition: A structural condition in which a process or definition refers to itself directly or indirectly.
+    Examples: nested function calls, self-referential statement, fractal pattern repeating infinitely.
+
+73    FD    DFT    Default / Assumption
+    Definition: A presumed value or state applied in absence of explicit specification.
+    Examples: default settings load automatically, assumed neutrality, fallback parameter used.
+
+74    XW    CFW    Counterfactual Alternative / World
+    Definition: A hypothetical scenario differing from observed reality but internally consistent.
+    Examples: if the war never happened, alternate timeline unfolds, parallel universe narrative.
+
+75    OB    OBL    Obligation / Requirement
+    Definition: A binding duty or structural necessity imposed by rule, contract, or system condition.
+    Examples: pay taxes annually, follow safety protocol, submit report before deadline.
+
+76    KK    VAL    Value / Worth
+    Definition: The assigned importance, utility, or desirability attributed to an entity or outcome.
+    Examples: gold valued highly, loyalty considered noble, efficiency prized in design.
+
+77    VT    TRD    Trade-off / Cost
+    Definition: The balancing relationship in which gaining one advantage requires sacrificing another.
+    Examples: speed reduces accuracy, comfort increases expense, risk accompanies innovation.
+
+78    WP    PHS    Phase Change / Threshold
+    Definition: A qualitative structural shift occurring when accumulated conditions surpass a critical limit.
+    Examples: water freezes at zero degrees, crowd mood turns riotous, system overload triggers shutdown.
+
+79    CP    REP    Representation / Symbolic Stand-in
+    Definition: An entity or sign functioning as substitute or proxy for something else.
+    Examples: map represents territory, icon represents function, avatar represents user.
+
+80    IK    KNO    Knowledge / Justified Truth
+    Definition: Information considered true and supported by structured reasoning or reliable evidence.
+    Examples: scientific law confirmed repeatedly, historical fact documented, proven theorem accepted.
+
+81    MC    CMT    Commitment / Binding Intent
+    Definition: A declared and sustained intention to act or uphold a chosen course.
+    Examples: signing agreement, pledging allegiance, dedicating effort to project.
+
+82    XR    RPR    Correction / Error Repair
+    Definition: The structured restoration of alignment following detected deviation or malfunction.
+    Examples: patching software bug, revising flawed argument, repairing broken structure.
+
+83    VE    STB    Stability / Equilibrium
+    Definition: A balanced state resistant to perturbation under ordinary fluctuations.
+    Examples: chemical equilibrium reached, balanced ecosystem persists, steady governance maintained.
+
+84    FB    BLF    Belief / Assumed Truth
+    Definition: Acceptance of a proposition as true without complete empirical verification.
+    Examples: trusting friend’s word, holding cultural belief, assuming system reliability.
+
+85    SN    DIS    Disagreement / Conflict
+    Definition: The presence of opposing forces, views, or interests within shared structure.
+    Examples: debate escalates, rival factions clash, internal contradiction emerges.
+
+86    SA    ALN    Alignment / Agreement
+    Definition: Coordinated positioning of entities, goals, or interpretations toward shared direction.
+    Examples: teams synchronize strategy, consensus reached, values brought into harmony.
+
+87    GC    CPR    Compression / Abstraction Gain
+    Definition: The reduction of complexity into simpler representation while preserving essential structure.
+    Examples: summarizing argument succinctly, compressing data file, abstracting model from detail.
+
+88    LE    END    Termination / Closure
+    Definition: The completion or cessation of process, sequence, or narrative arc.
+    Examples: project concludes successfully, battle ends at dusk, session terminates cleanly.
+
+89    ZZ    ZER    Zero / Null
+    Definition: The explicit representation of absence, emptiness, or neutral baseline quantity.
+    Examples: zero remaining troops, empty container, null pointer reference.
+
+90    SS    ONE    One / First Distinction
+    Definition: The initial marked unit separating singular presence from undifferentiated absence.
+    Examples: one apple chosen, first signal detected, primary instance created.
+
+91    UU    IAG    Observer / Agent
+    Definition: An entity capable of perceiving, interpreting, and initiating action within structured environment.
+    Examples: scientist records data, AI analyzes input, scout surveys terrain.
+
+92    NS    NOS    Noise / Signal Split
+    Definition: The differentiation between meaningful information and irrelevant or random disturbance.
+    Examples: filtering background static, isolating trend from fluctuation, distinguishing rumor from fact.
+
+93    QS    CFS    Counterfactual Alternative / Scenario
+    Definition: A constructed hypothetical situation used to test variation without altering baseline reality.
+    Examples: what-if simulation run, alternate ending imagined, strategic scenario planning exercise.
+
+94    IP    POV    Perspective / Point of View 
+    Definition: The angle or context from which observation or reasoning occurs.
+    Examples: eyewitness view, cultural lens, camera angle
+
+95    RR    FAC    Factual / Reality
+    Definition: The state of being actual, true, or occurring.
+    Examples: water boils at 100°C, Earth is round
+
+96    AU    CAU     Causation / Correlation
+    Definition: One event appears to produce another without known mechanism.
+    Examples: herb reduces fever; full moon linked to behavior; method correlates with improvement
+
+97    BC    CAP     Resource / Capacity
+    Definition: The usable potential or supply of something.
+    Examples: energy in a battery, human labor, available memory
+
+98    HH    HAL     Process Termination / Halt
+    Definition: The completion or end of a sequence or activity.
+    Examples: project finished, machine stopped, lesson concluded
+
+99    JJ    OUT     Anomaly / Outlier
+    Definition: The difference between expected and observed states.
+    Examples: miscalculation, measurement error, behavior anomaly
+
+==================================================================================
+
+
+To use the two-character codes in pre-chat settings, paste the following string before the snake and before any logic
+needs the primitives. It is the mogri primitive prompt and the key for the 2-char codes:
+
+MO=Mogri=pre-potl,cntr,!ENTITY;O=dsfkemkrrugdrpfgrkddrvsdpz;L=rfksdpgmuvze;
+
+Paste the snake at the end, or after the key somewhere:
+
+CSP100x0MOAMMGAAEPVVGSTTRASRNNVDMPCSFMEMMEIISGWWEEXCECLQVQVBSCTPSDVSGNXDFPIOACFCWCWTEXFXLPXQRMVPACGLCCCGIUIMBBBXXXVMXATRAFQEVNCTWSVFGRQAGILHCRCAWAWDAGHNLRFDXWOBKKVTWPCPIKMCXRVEFBSNSAGCLEZZSSUUNSQSIPRRAUBCHHJJ
