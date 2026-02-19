@@ -1,0 +1,56 @@
+What narrative looks like under the hood
+
+
+When you put a story into a computer, it does not see heroes, villains, or plot twists.
+
+It sees structure.
+
+A story becomes a container filled with ordered pieces of information.
+
+For example, a simple scene might break down into:
+
+A line of dialogue from one character
+
+A reply from another character
+
+A description of the setting
+
+A note about what happened next
+
+Each piece is stored with labels. Not emotional labels. Structural ones.
+
+The computer tracks things like:
+
+Who produced this line
+
+Whether it is dialogue, description, or summary
+
+When it happens in the timeline
+
+Whether it is presented as fact, quotation, or imagination
+
+To a computer, “fiction” and “non-fiction” are not fundamentally different categories. 
+If two texts share the same structure and labeling, they are processed in the same way.
+
+A courtroom transcript and a novel scene may look different to us. 
+Inside a computer, they are both ordered chains of labeled statements.
+
+This matters for creators because it reveals something important:
+
+Story is not magic. It is organized change over time.
+
+Someone speaks. Someone responds. Something shifts. The sequence continues.
+
+If you understand that a story is built from structured, labeled pieces, you gain leverage. You can:
+
+Clarify who is speaking and why
+
+Control the timeline more precisely
+
+Separate description from action
+
+Make the status of information explicit
+
+Under the surface, stories are systems.
+
+Once you see the system, you can design it on purpose.
