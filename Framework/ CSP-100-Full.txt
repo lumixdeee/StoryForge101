@@ -416,10 +416,8 @@ Highlight any missing primitives rather than inventing them.
 ==================================================================================
 
 
-To use the two-character codes in pre-chat settings, paste the following string before the snake and before any logic
-needs the primitives. It is the mogri primitive prompt and the key for the 2-char codes:
+A mogri primitive prompt:
 
 MO=Mogri=pre-potl,cntr,!ENTITY;
 
-AZ;MAP=ABCDEFGHIJKLMNOPQRSTUVWXYZ;R=(p+i)%100;M=2;
-CSP100x1:MOAMMGAAEPVVGSTTRASRNNVDMPCSFMEMMEIISGWWEEXCECLQVQVBSCTPSDVSGNXDFPIOACFCWCWTEXFXLPXQRMVPACGLCCCGIUIMBBBXXXVMXATRAFQEVNCTWSVFGRQAGILHCRCAWAWDAGHNLRFDXWOBKKVTWPCPIKMCXRVEFBSNSAGCLEZZSSUUNSQSIPRRAUBCHHJJ
+
