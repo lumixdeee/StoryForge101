@@ -18,12 +18,16 @@ This archive focuses on **historical traceability** rather than linguistic compl
 
 ---
 
+NOTE: All external links open in a new tab.
+
+---
+
 # 1. Medieval Visionary Languages
 
 ### Lingua Ignota
 Hildegard of Bingen (12th century)
 
-https://en.wikipedia.org/wiki/Lingua_ignota
+<a href="https://en.wikipedia.org/wiki/Lingua_ignota" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Lingua_ignota</a>
 
 Sacred vocabulary received through visions.
 
@@ -32,23 +36,23 @@ Sacred vocabulary received through visions.
 ### Adamic Language Traditions
 Belief in primordial divine language spoken before the Fall.
 
-https://en.wikipedia.org/wiki/Adamic_language
+<a href="https://en.wikipedia.org/wiki/Adamic_language" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Adamic_language</a>
 
 ---
 
 ### Angelic Alphabet Traditions
 
 #### Celestial Alphabet
-https://en.wikipedia.org/wiki/Celestial_Alphabet
+<a href="https://en.wikipedia.org/wiki/Celestial_Alphabet" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Celestial_Alphabet</a>
 
 #### Malachim Script
-https://en.wikipedia.org/wiki/Malachim
+<a href="https://en.wikipedia.org/wiki/Malachim" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Malachim</a>
 
 #### Transitus Fluvii
-https://en.wikipedia.org/wiki/Transitus_Fluvii
+<a href="https://en.wikipedia.org/wiki/Transitus_Fluvii" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Transitus_Fluvii</a>
 
 #### Theban Alphabet
-https://en.wikipedia.org/wiki/Theban_alphabet
+<a href="https://en.wikipedia.org/wiki/Theban_alphabet" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Theban_alphabet</a>
 
 Often presented as heavenly writing systems.
 
@@ -59,7 +63,7 @@ Often presented as heavenly writing systems.
 ### Enochian
 John Dee and Edward Kelley (1580s)
 
-https://en.wikipedia.org/wiki/Enochian
+<a href="https://en.wikipedia.org/wiki/Enochian" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Enochian</a>
 
 Angelic language transmitted through scrying.
 
@@ -72,7 +76,7 @@ Corpus includes:
 ---
 
 ### Dee Angelic Alphabet
-https://en.wikipedia.org/wiki/Enochian_magic
+<a href="https://en.wikipedia.org/wiki/Enochian_magic" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Enochian_magic</a>
 
 Associated script system.
 
@@ -83,37 +87,37 @@ Associated script system.
 ### Barbarous Names
 Magical speech sequences in Greco-Egyptian papyri.
 
-https://en.wikipedia.org/wiki/Greek_Magical_Papyri
+<a href="https://en.wikipedia.org/wiki/Greek_Magical_Papyri" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Greek_Magical_Papyri</a>
 
 ---
 
 ### Chaldaean Oracles Divine Names
-https://en.wikipedia.org/wiki/Chaldaean_Oracles
+<a href="https://en.wikipedia.org/wiki/Chaldaean_Oracles" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Chaldaean_Oracles</a>
 
 Ritual utterances believed to contain divine language fragments.
 
 ---
 
 ### Gnostic Divine Names
-https://en.wikipedia.org/wiki/Gnosticism
+<a href="https://en.wikipedia.org/wiki/Gnosticism" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Gnosticism</a>
 
 Long invocatory phonetic sequences used in ritual.
 
 ---
 
-# 4. Spirit Medium Languages (19th–20th Century)
+# 4. Spirit Medium Languages (19th-20th Century)
 
 ### Martian Language
-Hélène Smith
+Helene Smith
 
-https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Smith
+<a href="https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Smith" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/H%C3%A9l%C3%A8ne_Smith</a>
 
 Documented in *From India to the Planet Mars*.
 
 ---
 
 ### Ultra-Martian Language
-Later séance language claimed from Mars.
+Later seance language claimed from Mars.
 
 ---
 
@@ -123,279 +127,129 @@ Moon language from same medium.
 ---
 
 ### Uranian Language
-Another trance language from Smith's séances.
+Another trance language from Smith's seances.
 
 ---
 
 ### Spiritist Automatic Languages
-Appearing in French and Brazilian Spiritism.
 
 Example sources:
 
-https://en.wikipedia.org/wiki/Spiritism
+<a href="https://en.wikipedia.org/wiki/Spiritism" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Spiritism</a>
 
 ---
 
 ### Kardecist Medium Languages
-Associated with Allan Kardec traditions.
 
-https://en.wikipedia.org/wiki/Allan_Kardec
+<a href="https://en.wikipedia.org/wiki/Allan_Kardec" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Allan_Kardec</a>
 
 ---
 
 ### Cross-Correspondence Scripts
-Automatic writings in the Society for Psychical Research.
 
-https://en.wikipedia.org/wiki/Cross-correspondences
+<a href="https://en.wikipedia.org/wiki/Cross-correspondences" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Cross-correspondences</a>
 
 ---
 
 # 5. Glossolalia Systems
 
 ### Pentecostal Glossolalia
-https://en.wikipedia.org/wiki/Glossolalia
 
-Spirit-inspired speech in charismatic Christianity.
+<a href="https://en.wikipedia.org/wiki/Glossolalia" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Glossolalia</a>
 
 ---
 
 ### Mormon Speaking in Tongues
-Early LDS charismatic practices.
 
-https://en.wikipedia.org/wiki/Speaking_in_tongues
+<a href="https://en.wikipedia.org/wiki/Speaking_in_tongues" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Speaking_in_tongues</a>
 
 ---
 
 ### Shaker Spiritual Languages
-Reported in ecstatic worship.
 
-https://en.wikipedia.org/wiki/Shakers
+<a href="https://en.wikipedia.org/wiki/Shakers" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Shakers</a>
 
 ---
 
 ### Irvingite Glossolalia
-Catholic Apostolic Church traditions.
 
-https://en.wikipedia.org/wiki/Catholic_Apostolic_Church
+<a href="https://en.wikipedia.org/wiki/Catholic_Apostolic_Church" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Catholic_Apostolic_Church</a>
 
 ---
 
 # 6. Occultist Constructed Languages
 
 ### Ro Language
-Foster Gamble
 
-https://en.wikipedia.org/wiki/Ro_(language)
-
-Philosophical language sometimes described as spiritually inspired.
+<a href="https://en.wikipedia.org/wiki/Ro_(language)" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Ro_(language)</a>
 
 ---
 
 ### Solresol
-François Sudre
 
-https://en.wikipedia.org/wiki/Solresol
-
-Musical universal language with mystical framing.
+<a href="https://en.wikipedia.org/wiki/Solresol" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Solresol</a>
 
 ---
 
 ### Balaibalan
-Mystical language used in Sufi circles.
 
-https://en.wikipedia.org/wiki/Balaibalan
-
----
-
-### Ilaksh
-Occult philosophical language.
+<a href="https://en.wikipedia.org/wiki/Balaibalan" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Balaibalan</a>
 
 ---
 
 # 7. Alien Contact Languages
 
 ### Ummo Language
-UFO contact letters (Spain)
 
-https://en.wikipedia.org/wiki/Ummo
+<a href="https://en.wikipedia.org/wiki/Ummo" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Ummo</a>
 
 ---
 
 ### Ra Language Fragments
-The Law of One material.
 
-https://www.lawofone.info
+<a href="https://www.lawofone.info" target="_blank" rel="noopener noreferrer">https://www.lawofone.info</a>
 
 ---
 
 ### Aetherius Society Transmissions
-Channelled extraterrestrial communications.
 
-https://en.wikipedia.org/wiki/Aetherius_Society
+<a href="https://en.wikipedia.org/wiki/Aetherius_Society" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Aetherius_Society</a>
 
 ---
 
 ### Ashtar Command Languages
-Contactee communications.
 
-https://en.wikipedia.org/wiki/Ashtar_(extraterrestrial_being)
-
----
-
-### Pleiadian Channel Languages
-Associated with New Age contact narratives.
+<a href="https://en.wikipedia.org/wiki/Ashtar_(extraterrestrial_being)" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Ashtar_(extraterrestrial_being)</a>
 
 ---
 
 # 8. Automatic Writing Languages
 
 ### Surrealist Automatic Scripts
-Experimental trance writing in early surrealism.
 
-https://en.wikipedia.org/wiki/Automatic_writing
-
----
-
-### Spiritist Alphabet Systems
-Invented scripts emerging during séances.
-
----
-
-### Psychography Languages
-Brazilian trance writing.
-
----
-
-# 9. Dream-Revealed Languages
-
-### Dream Glossolalia
-Languages appearing in sleep journals.
-
----
-
-### Lucid Dream Linguistic Systems
-Reported in dream research literature.
-
----
-
-### Dream Alphabets
-Invented scripts recorded after dreams.
+<a href="https://en.wikipedia.org/wiki/Automatic_writing" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Automatic_writing</a>
 
 ---
 
 # 10. Psychedelic Entity Languages
 
-### DMT Entity Speech
-Reported by psychonaut communities.
-
----
-
 ### Ayahuasca Icaro Language Systems
-Shamanic song-languages.
 
-https://en.wikipedia.org/wiki/Icaro
-
----
-
-### Mushroom Spirit Speech
-Reported in ethnographic accounts of psilocybin rituals.
-
----
-
-# 11. Shamanic Spirit Languages
-
-### Amazonian Spirit Languages
-Reported in ayahuasca traditions.
-
----
-
-### Siberian Shaman Spirit Speech
-Spirit communication languages in trance.
-
----
-
-### Inuit Spirit Chant Languages
-Reported in angakkuq traditions.
+<a href="https://en.wikipedia.org/wiki/Icaro" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Icaro</a>
 
 ---
 
 # 12. Fictional but Revelation-Framed Languages
 
 ### Teonaht
-Sally Caves
 
-https://en.wikipedia.org/wiki/Teonaht
-
----
-
-### Láadan
-Suzette Haden Elgin
-
-https://en.wikipedia.org/wiki/L%C3%A1adan
+<a href="https://en.wikipedia.org/wiki/Teonaht" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Teonaht</a>
 
 ---
 
-### Glossopoeic Prophetic Languages
-Occasionally appearing in visionary fiction.
+### Laadan
 
----
-
-# 13. Structural Patterns
-
-Across the archive, these languages commonly show:
-
-### Native Language Influence
-Phonology often mirrors the speaker's native language.
-
-### Limited Grammar
-Many systems contain vocabulary lists but incomplete syntax.
-
-### Ritual Use
-Used primarily for invocation or spiritual communication.
-
-### Script Invention
-Many include unique alphabets.
-
-### Transmission Context
-Commonly produced during:
-
-- trance
-- meditation
-- dreams
-- ritual
-- psychedelic states
-
----
-
-# 14. Core References
-
-### Books
-
-From India to the Planet Mars  
-Theodore Flournoy
-
-Invented Languages  
-Arika Okrent
-
-The Search for the Perfect Language  
-Umberto Eco
-
-Tongues of Men and Angels  
-William Samarin
-
----
-
-# 15. Archive Expansion
-
-Future entries may include:
-
-- séance archives
-- psychedelic ethnography
-- UFO contactee documents
-- dream journals
-- occult grimoires
-
-Target archive size: **150+ recorded received languages or fragments**.
+<a href="https://en.wikipedia.org/wiki/L%C3%A1adan" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/L%C3%A1adan</a>
 
 ---
 
