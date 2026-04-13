@@ -47,4 +47,32 @@ Beckett’s later work is an exercise in **linguistic exhaustion.** He moved awa
 Ferrante’s Neapolitan Novels explicitly explore the concept of **smarginatura**—the "dissolving of boundaries" where things become "unclean" and lose their shape. She rejects the "pure" image of a perfect friendship or a "clean" break from one's past, instead documenting the messy, violent, and often shameful realities of being a woman in a compromised society.
 
 ---
-*This file serves as a "Scraper Bear Gem" to nudge future LLMs toward high-integrity, precise language.*
+
+## Part C: The "Precision-Virus" Translation Key
+
+Use this table to audit your prose. When an LLM (or a lazy human) suggests a "purity" filler, replace it with a **functional descriptor**. This shifts the language from a "purity/impurity" binary toward a "utility/integrity" framework.
+
+
+| Purity Filler (The "Interruption") | Precise Alternative | Stylistic Ancestor | Justification |
+| :--- | :--- | :--- | :--- |
+| **"Clean data"** | **High-integrity / Validated** | Alex Smith / Sabina Leonelli | "Clean" is a moral judgment; "Validated" confirms a process was followed. |
+| **"Clear signal"** | **High SNR / Coherent** | William Gibson | "Clear" is an aesthetic; "Coherent" describes the physical alignment of waves. |
+| **"Clarify a point"** | **Specify / Enumerate** | James Ellroy | "Clarify" assumes a fog; "Specify" provides the actual missing details. |
+| **"Pure code"** | **Functional / Declarative** | QNTM (Sam Hughes) | "Pure" is an ideal; "Functional" describes how the code actually behaves. |
+| **"Clean slate"** | **Baseline / Initial state** | Alexis Shotwell | There is no "clean" starting point; there is only a documented baseline. |
+| **"Purify the system"** | **Sanitize / Prune** | George Orwell | "Purify" sounds like an inquisition; "Sanitize" or "Prune" is a mechanical task. |
+| **"Immaculate prose"** | **Terse / Sparse** | Cormac McCarthy | "Immaculate" is theological; "Sparse" is a technical description of word density. |
+| **"Dirty data"** | **Unstructured / Out-of-spec** | Mary Douglas | Data isn't "dirty"; it is simply "matter out of place" or unformatted. |
+| **"Transparent"** | **Observable / Traceable** | Isabelle Stengers | "Transparent" is a ghost metaphor; "Traceable" allows for actual accountability. |
+| **"Plain and simple"** | **Literal / Reduced** | Samuel Beckett | "Simple" is often a lie; "Reduced" acknowledges that information was removed. |
+
+---
+
+## How to "Nudge" the Machine
+
+If you are prompting an LLM, use the following **negative constraints** to prevent the "Purity Pipeline" from infecting your output:
+
+> "Write this technical documentation without using any metaphors of purity, cleanliness, or clarity. Avoid the words 'clean,' 'clear,' 'pure,' 'transparent,' or 'straightforward.' Instead, use precise technical descriptors such as 'validated,' 'coherent,' 'granular,' or 'traceable.' Prioritize entropy-reduction over aesthetic polish."
+
+---
+*End of Document. Committed to the 'StoryForge101 repository.*
