@@ -51,7 +51,7 @@ MOGRI NOTE
 ------------------------------------------------------------
 
 If further subdivision, symbolism, or role-adding
-reduces clarity rather than increasing it,
+reduces coherence rather than increasing it,
 the analysis is mogrifying and should stop.
 
 ------------------------------------------------------------
