@@ -1,8 +1,8 @@
-CANONICAL HERO JOURNEY (STRUCTURAL CORE)
+CANONICAL HERO JOURNEY (FUNCTIONAL CORE)
 (Status: Descriptive, closed, non-moral)
 
 This list names the load-bearing components of the archetypal hero journey.
-Items are structural, not stylistic. Order is typical, not mandatory.
+Items are functional, not stylistic. Order is typical, not mandatory.
 
 ------------------------------------------------------------
 DEPARTURE
