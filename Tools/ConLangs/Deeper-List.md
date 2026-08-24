@@ -139,8 +139,8 @@ https://en.wikipedia.org/wiki/Gnosticism
 
 ## Swedenborg Angelic Speech
 
-Emanuel Swedenborg described angelic language structures.
-
+Emanuel Swedenborg described angelic language forms.
+#
 https://en.wikipedia.org/wiki/Emanuel_Swedenborg
 
 ---
@@ -253,7 +253,7 @@ https://en.wikipedia.org/wiki/Theosophy
 
 # 9 Glossolalia Systems
 
-Glossolalia sometimes evolves into structured language.
+Glossolalia sometimes develops recurring vocabulary or grammar-like patterns.
 
 https://en.wikipedia.org/wiki/Glossolalia
 
@@ -415,7 +415,7 @@ https://en.wikipedia.org/wiki/L%C3%A1adan
 
 ---
 
-# 19 Structural Patterns Across Received Languages
+# 19 Recurring Patterns Across Received Languages
 
 Common features observed:
 
