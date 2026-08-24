@@ -127,7 +127,7 @@ These are often private languages reported in dream journals.
 Examples documented in linguistics and psychology:
 
 ## The "Dream Language" Journals
-Individuals recording structured languages appearing in dreams.
+Individuals recording language-like systems appearing in dreams.
 
 Common characteristics:
 - simple phonologies
@@ -140,7 +140,7 @@ Academic references appear in studies of **private languages and glossolalia**.
 
 # 7. Psychedelic or Visionary Entity Languages
 
-Reports from psychedelic experiences sometimes include structured speech attributed to entities.
+Reports from psychedelic experiences sometimes include patterned speech attributed to entities.
 
 Common contexts:
 - DMT experiences
@@ -192,7 +192,7 @@ Examples:
 
 ---
 
-# 10. Structural Patterns Observed Across Received Languages
+# 10. Recurring Patterns Observed Across Received Languages
 
 Across the archive, these languages show recurring properties:
 
